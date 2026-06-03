@@ -77,7 +77,7 @@ Comercio | MCC | Nota
 -------- | --- | ----
 Aeroméxico | 3076
 Vivaaerobus | ?
-Volaris | ?
+Volaris | 4511
 
 ### Apuestas y loterías
 Comercio | MCC | Nota
@@ -135,6 +135,7 @@ Caffenio | 5814 | Chihuahua
 Checkers & Rally's | ? | LikeU restaurantes
 Cielito querido café | 5814
 Culver's | ? | LikeU restaurantes
+Dairy Queen |5814 | Chihuahua
 Domino's Pizza | 5814
 Dunkin' Donuts | ? | LikeU restaurantes
 Elotes Make | 5814 | Hermosillo Quiroga
@@ -318,6 +319,7 @@ Café Kowlaan | ?
 Casey Coffee Company | ?
 Casa de Toño | 5812
 Chilis | 5812
+Chihuas Restaurante |5812
 Cotorritos | ?
 Denny's | 5812
 Domino's Pizza | 5812 | Chihuahua Mayo 2026
