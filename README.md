@@ -200,6 +200,7 @@ Suburbia | 5311
 ### Educación
 Comercio | MCC | Nota
 -------- | --- | ----
+Cele Univa | 8220 | Pago por nivel de idioma (CELE), UNIVA Guadalajara
 Platzi Expert | 8299
 Udemy | 8999
 
@@ -333,6 +334,7 @@ La Sierra Pizzeria | 5812
 Las Brasas | 5812
 Pollo Feliz Apodaca | 5812
 REST XCAANDA | ? | Puerto Escondido
+Sanvilla Rest | 5812 | Cafetería UNIVA campus Guadalajara
 Sushi Roll | ?
 Taquería Arandas | ?
 Twin Peaks | 5812
@@ -406,6 +408,7 @@ Comercio | MCC | Nota
 -------- | --- | ----
 Amazon Prime | 4899
 Google One | 5816
+Meli+ | 5399 | Suscripción Meli+
 Netflix | 4899
 Scribd | 4899
 Spotify | 4816
