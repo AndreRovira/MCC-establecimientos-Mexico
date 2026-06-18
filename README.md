@@ -93,6 +93,7 @@ Pastelería La Esperanza | 5462
 Comercio | MCC | Nota
 -------- | --- | ----
 Fraiche | 5977
+iHerb | 5499 | Tienda en línea de suplementos y vitaminas
 Studio Frau Mann | 7230
 
 ### Car rental
@@ -186,6 +187,7 @@ Temu | 7399
 Comercio | MCC | Nota
 -------- | --- | ----
 DHL | 4215
+DiDi Food | 5814
 Rappi | 4121
 Uber eats | 4215
 
@@ -288,6 +290,7 @@ Comercio | MCC | Nota
 -------- | --- | ----
 Marchand | 5943
 Sótano | 5942
+Tony GDL Independencia | 5943 | Guadalajara
 
 ### Luz
 Comercio | MCC | Nota
