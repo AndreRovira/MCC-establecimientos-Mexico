@@ -132,6 +132,7 @@ Comercio | MCC | Nota
 -------- | --- | ----
 Boston's Pizza | 5814 | Chihuahua
 Burger King | 5814
+Carl's Jr. | 5814
 Caffenio | 5814 | Chihuahua
 Checkers & Rally's | ? | LikeU restaurantes
 Cielito querido café | 5814
