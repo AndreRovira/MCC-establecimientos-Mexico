@@ -159,6 +159,7 @@ Six flags | 5814 | Agua
 Sonora Grill | 5814
 Subway | ?
 Sushi tako | 5814
+Taco Bell | 5814
 Tacos El Pata | 5814
 Taquearte | 5814
 Taquería La Palmera | 5814
