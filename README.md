@@ -141,6 +141,7 @@ Dairy Queen | 5814 | Chihuahua
 Domino's Pizza | 5814
 Dunkin' Donuts | ? | LikeU restaurantes
 Elotes Make | 5814 | Hermosillo Quiroga
+Five Guys | 5814
 Garabatos | 5814
 Gorditas Doña Tota | 5814 | Chihuahua
 IHOP | 5814
