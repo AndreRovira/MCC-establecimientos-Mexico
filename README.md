@@ -135,6 +135,7 @@ Burger King | 5814
 Caffenio | 5814 | Chihuahua
 Carl's Jr. | 5814
 Checkers & Rally's | ? | LikeU restaurantes
+Chick-fil-A | 5814
 Cielito querido café | 5814
 Culver's | ? | LikeU restaurantes
 Dairy Queen | 5814 | Chihuahua
@@ -156,6 +157,7 @@ Pizza Hut | 5814 | Web y tienda física
 Pollo Feliz | 5814 | Chihuahua
 Portillo's Hot Dogs | ? | LikeU restaurantes
 Qué Fresas MX | ? | LikeU restaurantes
+Raising Cane's | 5814
 Six flags | 5814 | Agua
 Sonora Grill | 5814
 Subway | ?
@@ -333,6 +335,7 @@ Denny's | 5812
 Domino's Pizza | 5812 | Chihuahua Mayo 2026
 Doña Blanca | ?
 El portón | ?
+Giordano's | 5812
 Hooters | 5812
 Italianni's | ?
 La buena tierra | 5811
@@ -342,6 +345,7 @@ Las Brasas | 5812
 Pollo Feliz Apodaca | 5812
 REST XCAANDA | ? | Puerto Escondido
 Sanvilla Rest | 5812 | Cafetería UNIVA campus Guadalajara
+Shake Shack | 5812
 Sushi Roll | ?
 Taquería Arandas | ?
 Twin Peaks | 5812
