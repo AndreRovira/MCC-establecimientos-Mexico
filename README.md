@@ -158,6 +158,7 @@ Pollo Feliz | 5814 | Chihuahua
 Portillo's Hot Dogs | ? | LikeU restaurantes
 Qué Fresas MX | ? | LikeU restaurantes
 Raising Cane's | 5814
+Rickys Tacos | 5814 | Chihuahua
 Six flags | 5814 | Agua
 Sonora Grill | 5814
 Subway | ?
@@ -216,7 +217,9 @@ Udemy | 8999
 Comercio | MCC | Nota
 -------- | --- | ----
 Bitcodes.co | 5816
+Canva | 5045
 Cyberpuerta | ?
+Driffle | 5816
 Google | 7311
 Micro Center | 5732
 Nintendo (eShop) | ?
@@ -239,6 +242,7 @@ Comercio | MCC | Nota
 Boletomovil | 5964
 Fever * Candlelight Tri | 7922
 Jump-In | 7994
+Startickets | 7941
 Ticketmaster | 7996
 TotalPass | ?
 Trotime | 7941 | maratones
@@ -323,6 +327,7 @@ Gua Guaus | 5995 | Hermosillo Pitic
 ### Restaurantes
 Comercio | MCC | Nota
 -------- | --- | ----
+Applebees | 5812
 Barril 23 | ?
 Bisquets Obregón | 5812
 Café Kowlaan | ?
@@ -339,6 +344,7 @@ Giordano's | 5812
 Hooters | 5812
 Italianni's | ?
 La buena tierra | 5811
+La Dulce Crepa | 5812 | Chihuahua
 La Junta Montados | 5812 | Chihuahua
 La Sierra Pizzeria | 5812
 Las Brasas | 5812
@@ -349,6 +355,7 @@ Shake Shack | 5812
 Sushi Roll | ?
 Taquería Arandas | ?
 Twin Peaks | 5812
+Viejo Refugio | 5812 | Chihuahua
 Vips | 5812
 William shakes | ?
 Wingstop | 5812
@@ -453,6 +460,7 @@ PaySend | 4829
 ### Transporte
 Comercio | MCC | Nota
 -------- | --- | ----
+Autobuses Estrella Blanca | 4131 | Chihuahua
 Conekta*Drive App | 4784
 Conekta*Parco | 4784
 Primera Plus | 4722
