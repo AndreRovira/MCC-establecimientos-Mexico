@@ -418,6 +418,7 @@ Rancho el 17 | 5422 | Taste Boutique de Carnes, Hermosillo, Sonora. Terminal Ady
 Soriana | 5411
 S-Mart | 5411
 Sumesa | 5411
+VIP Market | 5541 | Sucursal Quiroga, Hermosillo. Aparece como "Gas VIP Market Quiroga".
 Valenti Collezione | 5422 | Cobro entra como "BP*Miscelanea Jarvis" y no entra en ropa a pesar de ser tienda de trajes
 Walmart | ?
 
