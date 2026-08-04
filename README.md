@@ -139,6 +139,7 @@ Chick-fil-A | 5814
 Cielito querido café | 5814
 Culver's | ? | LikeU restaurantes
 Dairy Queen | 5814 | Chihuahua
+Dolphy | 5814
 Domino's Pizza | 5814
 Dunkin' Donuts | ? | LikeU restaurantes
 Elotes Make | 5814 | Hermosillo Quiroga
@@ -340,6 +341,7 @@ Denny's | 5812
 Domino's Pizza | 5812 | Chihuahua Mayo 2026
 Doña Blanca | ?
 El portón | ?
+Fresh Salads | 5812
 Giordano's | 5812
 Hooters | 5812
 Italianni's | ?
@@ -419,6 +421,7 @@ Soriana | 5411
 S-Mart | 5411
 Sumesa | 5411
 Valenti Collezione | 5422 | Cobro entra como "BP*Miscelanea Jarvis" y no entra en ropa a pesar de ser tienda de trajes
+VIP Market | 5541 | Sucursal Quiroga, Hermosillo. Aparece como "Gas VIP Market Quiroga".
 Walmart | ?
 
 ### Suscripciones
