@@ -253,7 +253,7 @@ Vidafel Lp (Cirque Du Soleil Joyá) | 7996
 ### Estacionamiento
 Comercio | MCC | Nota
 -------- | --- | ----
-Kigo - Parkimovil | 7523
+Kigo - Parkimovil | 7523 | Con Apple Pay se reportó MCC 5734 (Electrónicos), 26 de junio de 2026
 Parco | 7523
 
 ### Farmacias
