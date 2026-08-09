@@ -163,6 +163,7 @@ Rickys Tacos | 5814 | Chihuahua
 Six flags | 5814 | Agua
 Sonora Grill | 5814
 Subway | ?
+Sushi 8152 | 5814 | Hermosillo Colosio, terminal BBVA
 Sushi tako | 5814
 Taco Bell | 5814
 Tacos El Pata | 5814
