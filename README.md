@@ -40,7 +40,7 @@ Para añadir nuevas líneas tienes dos opciones:
 - [Flores](#flores)
 - [Gas stations](#gas-stations)
 - [Gobierno](#gobierno)
-- [Home and DIY](#home-and-diy)
+- [Hogar y reparaciones](#hogar-y-repareciones)
 - [Jewelry](#jewelry)
 - [Libros y papelería](#libros-y-papelería)
 - [Luz](#luz)
@@ -284,12 +284,13 @@ Comercio | MCC | Nota
 -------- | --- | ----
 SACMEX | 9311 | Secretaría de Administración y Finanzas
 
-### Home and DIY
+### Hogar y reparaciones
 Comercio | MCC | Nota
 -------- | --- | ----
 Comex | 5198
 Ferretería García | 5251
 Home Depot | 5311
+Lumen | 5943
 Ferretería Casa Myers | 5251 | Chihuahua
 
 ### Jewelry
