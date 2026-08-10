@@ -40,7 +40,7 @@ Para añadir nuevas líneas tienes dos opciones:
 - [Flores](#flores)
 - [Gas stations](#gas-stations)
 - [Gobierno](#gobierno)
-- [Hogar y reparaciones](#hogar-y-repareciones)
+- [Hogar y reparaciones](#hogar-y-reparaciones)
 - [Jewelry](#jewelry)
 - [Libros y papelería](#libros-y-papelería)
 - [Luz](#luz)
