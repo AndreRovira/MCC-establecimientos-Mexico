@@ -288,10 +288,10 @@ SACMEX | 9311 | Secretaría de Administración y Finanzas
 Comercio | MCC | Nota
 -------- | --- | ----
 Comex | 5198
+Ferretería Casa Myers | 5251 | Chihuahua
 Ferretería García | 5251
 Home Depot | 5311
 Lumen | 5943
-Ferretería Casa Myers | 5251 | Chihuahua
 
 ### Jewelry
 Comercio | MCC | Nota
