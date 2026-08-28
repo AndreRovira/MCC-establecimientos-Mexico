@@ -87,7 +87,8 @@ Tulotero | 4816
 ### Bakeries
 Comercio | MCC | Nota
 -------- | --- | ----
-Pastelería La Esperanza | 5462
+El Globo | 5462
+La Esperanza | 5462
 
 ### Beauty
 Comercio | MCC | Nota
