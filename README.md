@@ -76,7 +76,7 @@ Para añadir nuevas líneas tienes dos opciones:
 Comercio | MCC | Nota
 -------- | --- | ----
 Aeroméxico | 3076
-Vivaaerobus | ?
+Vivaaerobus | 4511
 Volaris | 4511
 
 ### Apuestas y loterías
@@ -155,7 +155,7 @@ McDonald's | 5814
 Milwaukee Brewers Stadium Puestos | ? | LikeU restaurantes
 Mozao Cafe Chihuahua | 5814
 Nikkori Andenes Hermosillo | 5814 | Restaurante Comida Japonesa. TPV Banco Sabadell
-Pizza Hut | 5814 | Web y tienda física
+Pirates Burgers | 5814
 Pollo Feliz | 5814 | Chihuahua
 Portillo's Hot Dogs | ? | LikeU restaurantes
 Qué Fresas MX | ? | LikeU restaurantes
@@ -214,6 +214,7 @@ Comercio | MCC | Nota
 -------- | --- | ----
 Cele Univa | 8220 | Pago por nivel de idioma (CELE), UNIVA Guadalajara
 Platzi Expert | 8299
+Toefl | 8299 | Examen
 Udemy | 8999
 
 ### Electronics and software
@@ -235,8 +236,10 @@ Comercio | MCC | Nota
 App Store & ITunes (suscripción) | 5818
 Claude.ai | 5734
 Google Play | 5816
+Micro Center | 5732
 NeWWW | 4814
 OpenAI | 5734
+Supercell | 5734 | Con VPN en EUA
 Xbox | ? | En línea
 
 ### Entretenimiento
@@ -349,6 +352,7 @@ Fresh Salads | 5812
 Giordano's | 5812
 Hooters | 5812
 Italianni's | ?
+Jaibol | 5813 | Sucursal Universidad
 La buena tierra | 5811
 La Dulce Crepa | 5812 | Chihuahua
 La Junta Montados | 5812 | Chihuahua
@@ -374,6 +378,7 @@ Cuidado con el perro | 5949
 Dorothy Gaynor | 5661
 Dportenis | 5661
 Flexi | 5661
+La Milagresa | 5139
 Lefties | 5621
 Lentes Galileo (Ben & Frank) | 5961
 Men's Fashion | 5611
@@ -392,6 +397,7 @@ Comercio | MCC | Nota
 -------- | --- | ----
 Salud Digna | 8398 | Clínicas de salud
 Liacsa SwissLab | 8071 | Chihuahua
+Teeth and Tooth | 8021 | Sucursal Insurgentes Sur
 
 ### Souvenirs
 Comercio | MCC | Nota
@@ -482,10 +488,12 @@ Comercio | MCC | Nota
 -------- | --- | ----
 ADO | 4131
 AirBnb | 5399
+Booking | 7011
 
 ### Videojuegos
 Comercio | MCC | Nota
 -------- | --- | ----
+Riot | ?
 Steam | ?
 Supercell store | ?
 
