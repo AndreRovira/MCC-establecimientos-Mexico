@@ -411,6 +411,7 @@ Bodega Aurrerá | 5411
 Caffenio | 5812 | Sucursal en Hermosillo
 CarneMart | ?
 Chedraui | 5411
+El Mandadito | 5422 | Sucursal Navarrete, Hermosillo. Terminal NetPay
 Justo | 7372
 Kiosko | 5499
 La comer | 5411 | Físico y online
