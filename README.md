@@ -279,6 +279,7 @@ Comercio | MCC | Nota
 Costco Gas | 5541
 Gas Oriente | 5541 | Gas LP
 Pemex | 5541
+VipGas | 5541 | Estación Quiroga, Hermosillo (Blvd. García Morales). Aparece como "ESTACION QUIROGA"
 
 ### Gobierno
 Comercio | MCC | Nota
@@ -424,7 +425,7 @@ Soriana | 5411
 S-Mart | 5411
 Sumesa | 5411
 Valenti Collezione | 5422 | Cobro entra como "BP*Miscelanea Jarvis" y no entra en ropa a pesar de ser tienda de trajes
-VIP Market | 5541 | Sucursal Quiroga, Hermosillo. Aparece como "Gas VIP Market Quiroga".
+VIP Market | 5541 | Tienda de conveniencia de VipGas (Sucursal Quiroga, Hermosillo). Aparece como "Gas VIP Market Quiroga"
 Walmart | ?
 
 ### Suscripciones
