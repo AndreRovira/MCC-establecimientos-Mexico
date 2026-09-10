@@ -171,7 +171,7 @@ Taco Bell | 5814
 Tacos El Pata | 5814
 Taquearte | 5814
 Taquería La Palmera | 5814
-Thrifty Ice Cream | 5814 | Hermosillo. TPV BBVA vía agregador PROSEPAGO
+Thrifty Ice Cream | 5814 | Hermosillo. TPV BBVA vía agregador PROSEPAGO. Con TPV Mercado Pago procesa como 5411 (supermercado)
 Tim Hortons | 5814
 Wendy's | 5814
 
