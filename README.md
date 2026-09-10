@@ -93,6 +93,7 @@ La Esperanza | 5462
 ### Beauty
 Comercio | MCC | Nota
 -------- | --- | ----
+Dermatomédica | 7298
 Fraiche | 5977
 iHerb | 5499
 Studio Frau Mann | 7230
@@ -395,7 +396,7 @@ Afore Móvil | 4814 | Compra tarjeta de regalo Amazon con Ganahorro
 ### Servicios Médicos
 Comercio | MCC | Nota
 -------- | --- | ----
-Salud Digna | 8398 | Clínicas de salud
+Salud Digna | 8398 | Clínicas de salud y online
 Liacsa SwissLab | 8071 | Chihuahua
 Teeth and Tooth | 8021 | Sucursal Insurgentes Sur
 
