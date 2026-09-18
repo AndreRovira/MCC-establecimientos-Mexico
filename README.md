@@ -478,6 +478,7 @@ Comercio | MCC | Nota
 Autobuses Estrella Blanca | 4131 | Chihuahua
 Conekta*Drive App | 4784
 Conekta*Parco | 4784
+Flix | 4131
 Primera Plus | 4722
 Redpay*Copemsa | 7523 | Estacionamientos Copemsa móvil
 RTC Las Vegas | 4111 | Accesos de bus en su app
